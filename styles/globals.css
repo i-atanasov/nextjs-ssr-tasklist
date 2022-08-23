@@ -7,7 +7,7 @@ body {
 }
 
 a {
-  color: inherit;
+  color: darkgreen;
   text-decoration: none;
 }
 
@@ -20,7 +20,7 @@ a {
     color-scheme: dark;
   }
   body {
-    color: white;
+    color: peachpuff;
     background: black;
   }
 }

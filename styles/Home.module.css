@@ -29,7 +29,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: darkgreen;
   text-decoration: none;
 }
 
@@ -37,6 +37,7 @@
 .title a:focus,
 .title a:active {
   text-decoration: underline;
+  color: green;
 }
 
 .title {
