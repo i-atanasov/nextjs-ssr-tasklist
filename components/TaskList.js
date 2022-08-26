@@ -47,6 +47,7 @@ function TasksList() {
                     <div className="">
                         Goal: {currentTask.results}  <br/>
                     </div>
+                    <br/>
                     <hr></hr>
                     </div>
                 </div>
